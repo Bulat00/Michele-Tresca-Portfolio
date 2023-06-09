@@ -1,6 +1,7 @@
 # Michele-Tresca-Portfolio
 
 Hi! This is my portfolio, wish that you find it interesting. 
+![Descrizione dell'immagine]("C:\Users\MTres\OneDrive\Immagini\fifa-21-players.jpg")
 
 ## First Project - FIFA 21 Database
 ### Data Cleaning, Data Pre-Processing, Data Visualizzation 
