@@ -3,7 +3,7 @@
 Hi! This is my portfolio, wish that you find it interesting. 
 
 
-## First Project - FIFA 21 Database <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/FIFA_21_logo.svg/1200px-FIFA_21_logo.svg.png" alt="Logo FIFA 21" width="200px">
+## First Project - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/FIFA_21_logo.svg/1200px-FIFA_21_logo.svg.png" alt="Logo FIFA 21" width="200px"> Database
 
 
 ### Data Cleaning, Data Pre-Processing, Data Visualizzation 
