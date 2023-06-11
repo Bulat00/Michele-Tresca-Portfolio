@@ -15,7 +15,5 @@ Hi! This is my portfolio, wish that you find it interesting.
 
 ### Data Pre-Processing, Data Visualization, Data Binning, Clustering, Regression Models, Ensamble Methods, Feature importance with SHAP
 * Project done for Machine Learning course at LUISS University
-* The objectives of the project were: 
-** Do an EDA
-** do a clustering with K = number of music genres 
-** run various classification models and decide which one was the best
+* The objectives of the project were: Make an EDA, do a clustering analysis with K = number of music genres, run various classification models and decide which one was the best
+
