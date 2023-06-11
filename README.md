@@ -18,3 +18,10 @@ Hi! This is my portfolio, wish that you find it interesting.
 * The objectives of the project were: Make an EDA, do a clustering analysis with K = number of music genres, run various classification models and decide which one was the best
 * The dataset was provided by LUISS University
 
+
+## Third Project - Data Science Salaries 2020-2023
+
+### Tableau (Data Visualization)
+* Project made entirely on tableau
+* The visualization on Tableau public is **REALLY BAD**, i suggest you to download it and **open it on tableau**! 
+* **Sources**: [Data Science Salaries 2023, RANDOMARNAB](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
